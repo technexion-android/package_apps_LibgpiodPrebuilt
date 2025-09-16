@@ -1,0 +1,6 @@
+android_app_import {
+    name: "GPIOD",
+    apk: "GPIOD.apk",
+    certificate: "platform",
+    privileged: true,
+}
